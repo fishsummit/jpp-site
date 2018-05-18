@@ -1,6 +1,14 @@
 body {
-  background-color: orange;
+  background-color: #fff1eb;
+  font-family: 'Open Sans', sans-serif;
+}
+h1 {
+  color: #ffb75d;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
 }
 p {
-  color: white;
+  color: #ffb75d;
+  font-family: inherit;
+  font-size: 12px;
 }
